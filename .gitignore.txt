@@ -1,0 +1,12 @@
+## Временный кэш Visual Studio и папки сборки
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+packages/
+*.user
+*.suo
+*.db
+*.opendb
+
+*.dat

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Program1_Array/Program1_Array.vcxproj" Id="1661a873-1534-4dab-8315-24839ccbe375" />
+  <Project Path="Program2_Pointer/Program2_Pointer.vcxproj" Id="ffc8ce6f-8ec0-4ee2-9045-8613197834e7" />
+  <Project Path="Program3_File/Program3_File.vcxproj" Id="6f53e3b0-5fa7-4ec8-8121-fe3ff3a09f9f" />
+</Solution>
